@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/rjsf-team/react-jsonschema-form">
-    <img src="https://raw.githubusercontent.com/rjsf-team/react-jsonschema-form/59a8206e148474bea854bbb004f624143fbcbac8/packages/core/logo.png" alt="Logo" width="180" height="120">
+    <img src="https://raw.githubusercontent.com/rjsf-team/react-jsonschema-form/59a8206e148474bea854bbb004f624143fbcbac8/packages/core/logo.png" alt="Logo" width="175" height="115">
   </a>
 
   <h3 align="center">react-jsonschema-form</h3>
@@ -12,7 +12,7 @@
   <p align="center">
     A simple <a href="http://facebook.github.io/react/">React</a> component capable of using <a href="http://json-schema.org/">JSON Schema</a> to declaratively build and customize web forms.
     <br />
-    <a href="https://react-jsonschema-form.readthedocs.io/en/latest/"><strong>Explore The Docs »</strong></a>
+    <a href="https://react-jsonschema-form.readthedocs.io/en/latest/"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
     <a href="https://rjsf-team.github.io/react-jsonschema-form/">View Playground</a>
@@ -51,7 +51,7 @@ Read our [contributors' guide](https://react-jsonschema-form.readthedocs.io/en/l
 ## Credits
 
 Testing powered by BrowserStack<br>
-<a target="_blank" href="https://www.browserstack.com/"><img width="200" src="https://user-images.githubusercontent.com/1689183/51487090-4ea04f80-1d57-11e9-9a91-79b7ef8d2013.png"></a>
+<a target="_blank" href="https://www.browserstack.com/"><img width="195" src="https://user-images.githubusercontent.com/1689183/51487090-4ea04f80-1d57-11e9-9a91-79b7ef8d2013.png"></a>
 
 [build-shield]: https://github.com/rjsf-team/react-jsonschema-form/workflows/CI/badge.svg
 [build-url]: https://github.com/rjsf-team/react-jsonschema-form/actions
